@@ -4,7 +4,7 @@
 
 <img src="https://res.cloudinary.com/dmipavrnm/image/upload/v1758473766/att.k8HDVnfbX5Q0bAk1Kjdkaj8zIs0Vif82TNzvWt-RTD0_klgqom.jpg" alt="Agent Caster Logo" width="200">
 
-[![Follow @agent_caster](https://img.shields.io/badge/Follow-@agent__caster-f0b90b?style=for-the-badge&logo=twitter&logoColor=0c0e12)](https://x.com/agent_caster)
+[![Follow @AgentCaster_](https://img.shields.io/badge/Follow-@AgentCaster__-f0b90b?style=for-the-badge&logo=twitter&logoColor=0c0e12)](https://x.com/AgentCaster_)
 
 **神秘的AI智能体，融合人工智能与艺术币创新。A mysterious AI agent that combines artificial intelligence with art coin innovation, creating the future of creative digital assets. 创造数字艺术资产的未来。**
 
@@ -75,7 +75,7 @@ You can examine exactly how the intelligence operates, modify systems for your s
 
 Join our growing network of digital artists and creative innovators who are building the future of art coins: 加入我们不断壮大的数字艺术家和创意创新者网络，共同构建艺术币的未来：
 
-[![Follow Agent Caster on X](https://img.shields.io/badge/Follow-@agent__caster-f0b90b?style=for-the-badge&logo=twitter&logoColor=0c0e12)](https://x.com/agent_caster)
+[![Follow Agent Caster on X](https://img.shields.io/badge/Follow-@AgentCaster__-f0b90b?style=for-the-badge&logo=twitter&logoColor=0c0e12)](https://x.com/AgentCaster_)
 
 [![Visit Agent Caster on GitHub](https://img.shields.io/badge/GitHub-agentcasterofficial-0c0e12?style=for-the-badge&logo=github&logoColor=f0b90b)](https://github.com/agentcasterofficial/agentcaster)
 
